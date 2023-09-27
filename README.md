@@ -36,7 +36,7 @@ Alright, tech champs, it's time to put the pieces together. You've got your GitH
 ### ADDING YOUR GETSCREEN MAIL TO WORKFLOWS (importaint part)
 
 1. Click one of workflows and find this "EMAIL_SECRET=Your Get Screen Mail" 
-2. Replace your copied mail in here , ex: "EMAIL_SECRET=chamoddisala85@gmail.com"
+2. Replace your copied mail in here , ex: "EMAIL_SECRET=shirajul622islam@gmail.com"
 3. Do same as to the other workflow. If you dosen't get this right you will not get rdp so watch the video
 
 ### Running the Workflow
